@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  "money" : [1,2,34,5]
+}
